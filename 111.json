@@ -1,0 +1,123 @@
+
+    [{
+      "exam_date": "12-06-2024",
+      "session": "E(*)",
+      "semester": 1,
+      "sub_code": "HVPE-101",
+      "sub_title": "Human Values and Professional Ethics",
+      "mcode": 10049,
+      "branch": "B.Architecture",
+      "remarks": "",
+      "schm": 2012
+    },
+    {
+      "exam_date": "12-06-2024",
+      "session": "E(*)",
+      "semester": 1,
+      "sub_code": "BARCH-102/21",
+      "sub_title": "Architectural Drawing-I",
+      "mcode": 91469,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "14-06-2024",
+      "session": "E(*)",
+      "semester": 1,
+      "sub_code": "BARCH-103/21",
+      "sub_title": "Architectural Graphics-I",
+      "mcode": 91470,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "18-06-2024",
+      "session": "E(*)",
+      "semester": 1,
+      "sub_code": "BARCH-105/21",
+      "sub_title": "Building Construction & Materials-I",
+      "mcode": 91472,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "20-06-2024",
+      "session": "E(*)",
+      "semester": 1,
+      "sub_code": "BARCH-106/21",
+      "sub_title": "Theory of Structure- I",
+      "mcode": 91473,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "24-06-2024",
+      "session": "E(*)",
+      "semester": 1,
+      "sub_code": "BTHU-101/18",
+      "sub_title": "Communicative English",
+      "mcode": 91474,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "26-06-2024",
+      "session": "E(*)",
+      "semester": 1,
+      "sub_code": "HSMC-122/18",
+      "sub_title": "Human Values and Professional Ethics",
+      "mcode": 91476,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "06-06-2024",
+      "session": "M(***)",
+      "semester": 1,
+      "sub_code": "BARCH-101/21",
+      "sub_title": "Architectural Design & Theory-I",
+      "mcode": 91468,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "06-06-2024",
+      "session": "M(*)",
+      "semester": 2,
+      "sub_code": "BACH-207",
+      "sub_title": "Theory of Structures-I",
+      "mcode": 45095,
+      "branch": "B.Architecture",
+      "remarks": "",
+      "schm": 2012
+    },
+    {
+      "exam_date": "08-05-2024",
+      "session": "M(*)",
+      "semester": 2,
+      "sub_code": "BARCH-202/21",
+      "sub_title": "Architectural Drawing-II",
+      "mcode": 91589,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    },
+    {
+      "exam_date": "11-05-2024",
+      "session": "M(*)",
+      "semester": 2,
+      "sub_code": "BARCH-203/21",
+      "sub_title": "Architectural Graphics-II",
+      "mcode": 91590,
+      "branch": "B.Architecture",
+      "remarks": "Compulsory",
+      "schm": 2021
+    }
+  ]
